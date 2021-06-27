@@ -1,0 +1,15 @@
+hálózati (alap)ismeretek
+debugger használata
+nemeuklideszi geometria
+projektív geometria
+lineáris algebra
+online algoritmusok
+avl, piros-fekete fa 
+fourier transzformáció
+logika
+Fruzsinak arch telepítés
+Fruzsinak vim
+titkosítás, számelmélet (Miller-Rabin prímteszt)
+komplex számok
+intervallumfa? avl fa? b fa? kupac? binomiális fa? fibonacci kupac? splay tree?
+clean code course
